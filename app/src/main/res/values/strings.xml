@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">Tour Guide App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="attractions">Attractions</string>
+    <string name="hotels">Hotels</string>
+    <string name="restaurants">Restaurants</string>
+
+    <string name="islam_khodzha">Islam Khodja ansamble</string>
+    <string name="kalta_minor">Kalta minor</string>
+    <string name="kunya_ark">Kunya Ark Citadel</string>
+    <string name="pahlavan_mahmud">Pakhlavan Makhmud Mausoleum</string>
+    <string name="mohamed_rahim_khan">The Muhammad Rakhim Khan madrasah</string>
+    <string name="murad_inak">The Kutlug Murad inak madrasah</string>
+    <string name="juma_mosque">Juma mosque </string>
+    <string name="palvan_darvaza">Palvan Darvaza ensemble</string>
+
+    <string name="islam_khodzha_info">The Islam Khodzha ensemble, consisting of the smallest madrasah and the highest minaret of Khiva, goes back in form to the ancient minarets of the 11 and 12 centuries, and is located in the south eastern part of the Ichan Kala.</string>
+    <string name="kalta_minor_info">Khiva architectural design in the late eighteenth century, who emerged in the early part
+        of the twentieth century.
+    </string>
+    <string name="kunya_ark_info">Kunya Ark was the Khan\'s internal citadel of Ichan Kala.</string>
+    <string name="pahlavan_mahmud_info">One of the best of the Khivan works of architecture the Pakhlavan Mahmud mausoleum was
+        constructed in the traditions of the 18 and 19 centuries.
+    </string>
+    <string name="mohamed_rahim_khan_info">The Muhammad Rakhim Khan madrasah is one of the largest in Khiva and the most well known
+        in Central Asia.
+    </string>
+    <string name="murad_inak_info">The Kutlug Murad inak madrasah is located on the east side of Ichan Kala, opposite to the
+        Khodzhamberdybiya madrasah.
+    </string>
+    <string name="juma_mosque_info">Khiva Juma Mosque Khiva is an architectural monument . Ichan connecting the gates of the
+        castle gate in the central part of the OMA and Polvonov in the street.
+    </string>
+    <string name="palvan_darvaza_info">The square at east Palvan Darvaza gate was one of the liveliest places of Khiva. Here, the
+        Anushkhan bathhouse and the single stroyed building of Khodzam berdybiya madrasah were
+        constructed as far back as the 17 century.
+    </string>
+
+    <string name="euro_asia_hotel">EuroAsia hotel</string>
+    <string name="malika_hotel">Malika hotel</string>
+    <string name="fayz_hotel">Fayz hotel</string>
+    <string name="asia_khiva_hotel">Asia Khiva hotel</string>
+    <string name="islambek_hotel">Islambek hotel</string>
+
+    <string name="euro_asia_hotel_info">Hotel has been built in August 2015 and started operating in September 2015. Hotel located just inside Ichan Qala, hotel provides comfortable accommodation in western style. Hotel is in immediate proximity to both business part of city and historical sights of the Ichan Qala. Nearest airport Khiva international Airport. Airport is located in 45 min from the Hotel to the north west. Nearest railway station Khiva
+Featuring free WIFI throughout the property. Guests can enjoy the on site restaurant. Restaurant can serve 100 guests at the same time, where you can enjoy European and local cuisine. Hotel also has European bar for 20 guests.
+There is a 24 hour front desk, concierge service and gift shop at the property. The hotel also offers bike hire.</string>
+    <string name="malika_hotel_info">Hotel Malika Khorezm is another property owned by the Malika Hotel chain and offering a nice level of quality accommodation in Khiva. This hotel, though located outside the Ichan Qala, is still only few steps away from one of the famous Gates leading inside the huge fortress surrounded by thick fortification walls.</string>
+    <string name="fayz_hotel_info">Hotel Fayz in translation from Uzbek language meaning convenience and comfort, in the center of your preference. Hotel Fayz is a high quality of service of the European level and comfortable environment for living and leisure at affordable prices. 37 rooms of 3 stars level, buffet breakfast, free WIFI Internet, a wide range of additional services and excellent staff.One of the advantages of the hotel is its location. The hotel is located in the centre of Urgench on the street leading to the national airport and close to the developing infrastructure of the city.</string>
+    <string name="asia_khiva_hotel_info">Asia Khiva is the place where historic beauty meets elegant and modern in the middle of the dessert, where you can spend unforgettable days during the trip to this eastern tale of a town. The hotel has a cozy and serene atmosphere, which will help you relax and enjoy your stay in this comfortable and modern hotel. Main advantages  located near all the attractions of ancient Khiva.</string>
+    <string name="islambek_hotel_info">You are warmly welcomed by hotels group ISLAMBEK to the hospitable land of Uzbekistan. It is located in Khiva  this is where the caravans of The Great Silk Road passed. Visiting the hometown which was founded over 2500 years ago, will not leave your heart indifferent.</string>
+
+    <string name="bir_gumbaz_cafe">Bir Gumbaz restaurant</string>
+    <string name="zarafshan_cafe"> Restaurant Zarafshan</string>
+    <string name="khorezm_art_cafe">Khorezm Art restaurant</string>
+    <string name="zaynab_cafe">Zaynab\'s traditional house</string>
+
+    <string name="bir_gumbaz_cafe_info">Family rest, Late supper, Meeting with friends, Romantic appointments, Visitors of the city</string>
+    <string name="zarafshan_cafe_info">The restaurant is located in Ichan Kala, Khiva/’s historic city, and is housed in Tolib Makhsum Madrasah standing across from the famous Islam Khodja architectural complex. The interior is historic Khorezmian. The walls feature gorgeous suzani tapestries. The furniture is decorated with fine traditional carvings. Besides the tables, the hall has traditional Uzbek daybed like platforms with low tables on them to sit cross legged or lie at. The restaurant also have an outdoor eating area.</string>
+    <string name="khorezm_art_cafe_info">The restaurant is housed in Allakulikhan Madrasah dating from the 19th century. The elegant traditional Khorezm style finish makes this madrasah one of the best examples of Khorezm architecture, so the restaurant inside the building is quite an impressive place to visit. It has a cozy hall and a spacious summer terrace. The historic interior features wood beamed ceilings, as well as old photographs and traditional housewares. Having delicious traditional Khorezmian meals of the restaurant\'s cuisine in such a setting is certainly worth a go.</string>
+    <string name="zaynab_cafe_info">Zaynab, the host, is known in Khiva/’s Ichan Kala for her reverence for the local hospitality traditions and wonderful homemade cuisine. The house has a cozy Uzbek style hall and an outside eating area with a yurt , tables and traditional Uzbek daybed like platforms with low tables on them to sit cross legged or lie at.</string>
+
+</resources>
