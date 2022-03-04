@@ -61,4 +61,24 @@ There is a 24 hour front desk, concierge service and gift shop at the property. 
     <string name="khorezm_art_cafe_info">The restaurant is housed in Allakulikhan Madrasah dating from the 19th century. The elegant traditional Khorezm style finish makes this madrasah one of the best examples of Khorezm architecture, so the restaurant inside the building is quite an impressive place to visit. It has a cozy hall and a spacious summer terrace. The historic interior features wood beamed ceilings, as well as old photographs and traditional housewares. Having delicious traditional Khorezmian meals of the restaurant\'s cuisine in such a setting is certainly worth a go.</string>
     <string name="zaynab_cafe_info">Zaynab, the host, is known in Khiva/’s Ichan Kala for her reverence for the local hospitality traditions and wonderful homemade cuisine. The house has a cozy Uzbek style hall and an outside eating area with a yurt , tables and traditional Uzbek daybed like platforms with low tables on them to sit cross legged or lie at.</string>
 
+    <string name="khoji_berdibay">The Khoji Berdybay Madrasah</string>
+    <string name="kibla_tozabog">Kibla Tozabog</string>
+    <string name="nurullabay_palace">Nurullabay Palace</string>
+    <string name="museum_of_al_horezmi">Museum of history of Khwarezm of Al-Horezmi and Beruni</string>
+    <string name="khorezm_club_arena">Khorezm Stadium</string>
+
+    <string name="khoji_berdibay_info">
+The Khoji Berdyba Madrasah was built in 1688 on the initiative of wealthy and respected residents near the eastern gate of Khiva - Palvan-Darvoz. This madrasah is one of the oldest in Khiva, preserved to this day. Most of the famous monuments of Khiva belong to a later period - the 18 - 19 centuries.
+</string>
+    <string name="kibla_tozabog_info">
+Kibla Tozabog is green gardens, shady ayvan in combination with comfortable living conditions of the residence of the khan of Khiva. Presently here the improving center where it is possible not only to have a rest functions, but also to enjoy the Khorezm kitchen
+The Tozabog palace is surrounded high, as at fortress, with cob walls from clay blocks. Access to the residence passes through massive carved gate. Behind walls, green lawns and ancient trees meet visitors.
+</string>
+    <string name="nurullabay_palace_info">
+In Dishan-Calais (the external city of Khiva) there are many historical and cultural monuments. Among them — the Nurullabaya palace built in 1906-1912 by order of Mahomed-Rakhimbaya II. Part of a palace complex are several court yard and gardens, rooms for court sessions (arzkhan), ceremonial halls and living rooms. All constructions are surrounded with a powerful fortification which extent is more than 650 meters. Through equal intervals over a wall semicircular towers-guldasta rise. The main palace building is adjoined by madrasah and several two-storeyed structures with premises framed with ayvana.</string>
+    <string name="museum_of_al_horezmi_info">
+Museum of history of Khwarezm of Al-Horezmi and Beruni. it is updated Al-Horezmi (architect S. Sutyagin) is constructed to anniversary. The exposition of the museum was transported from the former palace Tash-hauli.
+The department of archeology is constructed on materials of the Khorezm arkheologo-ethnographic expedition under the leadership of the famous orientalist S.P. Tolstov. In the ancient time in the territory of Khwarezm there were high-civilized states. </string>
+    <string name="khorezm_club_arena_info">Khorezm Stadium is the best football arena in the northern part of Uzbekistan.Visit and enjoy football</string>
+
 </resources>

@@ -18,14 +18,16 @@ public class FragmentsAdapter extends FragmentPagerAdapter {
             return new AttractiveSitesFragment();
         } else if(position == 1) {
             return new HotelsFragment();
-        } else {
+        } else if(position == 2) {
             return new RestaurantsFragment();
+        } else {
+            return new OthersFragment();
         }
     }
 
     @Override
     public int getCount() {
-        return 3;
+        return 4;
     }
 
     @Nullable
@@ -35,8 +37,10 @@ public class FragmentsAdapter extends FragmentPagerAdapter {
           return "Attractions";
       } else if(position == 1) {
           return "Hotels";
-      } else {
+      } else if(position == 2) {
           return "Restaurants";
+      } else {
+          return "Other Places";
       }
     }
 }
