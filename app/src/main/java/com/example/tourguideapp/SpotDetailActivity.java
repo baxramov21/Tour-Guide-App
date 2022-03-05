@@ -18,9 +18,9 @@ public class SpotDetailActivity extends AppCompatActivity {
         setContentView(R.layout.activity_spot_detail);
 
         Intent intentFromFragments = getIntent();
-        String spotName =  intentFromFragments.getStringExtra("Spot name");
-        String spotDeclaration = intentFromFragments.getStringExtra("Spot Declaration");
-        int spotImageID = intentFromFragments.getIntExtra("image resource ID",-1);
+        String spotName =  intentFromFragments.getStringExtra(getString(R.string.spot_name_for_detail_activity));
+        String spotDeclaration = intentFromFragments.getStringExtra(getString(R.string.spot_info_for_detail_activity));
+        int spotImageID = intentFromFragments.getIntExtra(getString(R.string.string_for_spot_image_resource),-1);
 
         imageViewImageOfSpot = findViewById(R.id.imageViewSpotImageResource);
         imageViewImageOfSpot.setImageResource(spotImageID);

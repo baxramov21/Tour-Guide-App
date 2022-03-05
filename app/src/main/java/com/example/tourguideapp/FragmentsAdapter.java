@@ -33,14 +33,19 @@ public class FragmentsAdapter extends FragmentPagerAdapter {
     @Nullable
     @Override
     public CharSequence getPageTitle(int position) {
+        String currentFragment = "";
       if(position == 0) {
-          return "Attractions";
+          currentFragment = "Attractions";
+          return currentFragment;
       } else if(position == 1) {
-          return "Hotels";
+          currentFragment = "Hotels";
+          return currentFragment;
       } else if(position == 2) {
-          return "Restaurants";
+          currentFragment = "Restaurants";
+          return currentFragment;
       } else {
-          return "Other Places";
+          currentFragment = "Other Places";
+          return currentFragment;
       }
     }
 }

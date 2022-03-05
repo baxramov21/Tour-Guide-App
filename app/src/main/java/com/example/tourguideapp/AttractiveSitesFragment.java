@@ -52,9 +52,9 @@ public class AttractiveSitesFragment extends Fragment {
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
                 Spot currentItem = spotArrayList.get(position);
                 Intent intentToOpenMoreInfoAboutSpot = new Intent(getActivity(), SpotDetailActivity.class);
-                intentToOpenMoreInfoAboutSpot.putExtra("Spot name", currentItem.getSpotName());
-                intentToOpenMoreInfoAboutSpot.putExtra("Spot Declaration", currentItem.getSpotDeclaration());
-                intentToOpenMoreInfoAboutSpot.putExtra("image resource ID", currentItem.getSpotImageID());
+                intentToOpenMoreInfoAboutSpot.putExtra(getString(R.string.spot_name_for_detail_activity), currentItem.getSpotName());
+                intentToOpenMoreInfoAboutSpot.putExtra(getString(R.string.spot_info_for_detail_activity), currentItem.getSpotDeclaration());
+                intentToOpenMoreInfoAboutSpot.putExtra(getString(R.string.string_for_spot_image_resource), currentItem.getSpotImageID());
                 startActivity(intentToOpenMoreInfoAboutSpot);
             }
         });

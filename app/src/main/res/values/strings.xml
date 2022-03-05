@@ -2,6 +2,11 @@
     <string name="app_name">Tour Guide App</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="spot_name_for_detail_activity">Spot name</string>
+    <string name="spot_info_for_detail_activity">Spot Declaration</string>
+    <string name="string_for_spot_image_resource">image resource ID</string>
+
     <string name="attractions">Attractions</string>
     <string name="hotels">Hotels</string>
     <string name="restaurants">Restaurants</string>

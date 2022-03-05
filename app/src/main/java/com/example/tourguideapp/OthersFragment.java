@@ -49,9 +49,9 @@ public class OthersFragment extends Fragment {
                 String spotName = currentSpot.getSpotName();
                 String spotInfo = currentSpot.getSpotDeclaration();
                 int spotImageID = currentSpot.getSpotImageID();
-                intentToOpenSpotDetailActivity.putExtra("Spot name", spotName);
-                intentToOpenSpotDetailActivity.putExtra("Spot Declaration", spotInfo);
-                intentToOpenSpotDetailActivity.putExtra("image resource ID", spotImageID);
+                intentToOpenSpotDetailActivity.putExtra(getString(R.string.spot_name_for_detail_activity), spotName);
+                intentToOpenSpotDetailActivity.putExtra(getString(R.string.spot_info_for_detail_activity), spotInfo);
+                intentToOpenSpotDetailActivity.putExtra(getString(R.string.string_for_spot_image_resource), spotImageID);
                 startActivity(intentToOpenSpotDetailActivity);
             }
         });
